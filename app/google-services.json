@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "359247212024",
+    "firebase_url": "https://pushnotification-96705.firebaseio.com",
+    "project_id": "pushnotification-96705",
+    "storage_bucket": "pushnotification-96705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359247212024:android:6b9668dc1a61b65b",
+        "android_client_info": {
+          "package_name": "estacio.edu.br.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359247212024-4r7ktmk6agv9f2a4n0mvmnf072dulan2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "359247212024-4r7ktmk6agv9f2a4n0mvmnf072dulan2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz0EFTpu3DuTmKbnIBiEjhiI77HYAKhOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
